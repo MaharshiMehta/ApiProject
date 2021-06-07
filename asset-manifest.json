@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ApiProject/static/css/main.a1fd442a.chunk.css",
+    "main.js": "/ApiProject/static/js/main.b7a11302.chunk.js",
+    "main.js.map": "/ApiProject/static/js/main.b7a11302.chunk.js.map",
+    "runtime-main.js": "/ApiProject/static/js/runtime-main.1bac581e.js",
+    "runtime-main.js.map": "/ApiProject/static/js/runtime-main.1bac581e.js.map",
+    "static/js/2.ca511c35.chunk.js": "/ApiProject/static/js/2.ca511c35.chunk.js",
+    "static/js/2.ca511c35.chunk.js.map": "/ApiProject/static/js/2.ca511c35.chunk.js.map",
+    "index.html": "/ApiProject/index.html",
+    "static/css/main.a1fd442a.chunk.css.map": "/ApiProject/static/css/main.a1fd442a.chunk.css.map",
+    "static/js/2.ca511c35.chunk.js.LICENSE.txt": "/ApiProject/static/js/2.ca511c35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bac581e.js",
+    "static/js/2.ca511c35.chunk.js",
+    "static/css/main.a1fd442a.chunk.css",
+    "static/js/main.b7a11302.chunk.js"
+  ]
+}
